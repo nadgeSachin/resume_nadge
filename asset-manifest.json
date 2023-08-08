@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45a39c6b.chunk.css",
+    "main.js": "/static/js/main.5c48f5de.chunk.js",
+    "main.js.map": "/static/js/main.5c48f5de.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
+    "static/css/2.3150fd4f.chunk.css": "/static/css/2.3150fd4f.chunk.css",
+    "static/js/2.d4dd878c.chunk.js": "/static/js/2.d4dd878c.chunk.js",
+    "static/js/2.d4dd878c.chunk.js.map": "/static/js/2.d4dd878c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.3150fd4f.chunk.css.map": "/static/css/2.3150fd4f.chunk.css.map",
+    "static/css/main.45a39c6b.chunk.css.map": "/static/css/main.45a39c6b.chunk.css.map",
+    "static/js/2.d4dd878c.chunk.js.LICENSE.txt": "/static/js/2.d4dd878c.chunk.js.LICENSE.txt",
+    "static/media/Professional-Picture-Me.fef94127.jpeg": "/static/media/Professional-Picture-Me.fef94127.jpeg",
+    "static/media/no-touch.min.css": "/static/media/background.eba1417f.jpeg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/vi1.5c028a11.mp4": "/static/media/vi1.5c028a11.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ebc510a.js",
+    "static/css/2.3150fd4f.chunk.css",
+    "static/js/2.d4dd878c.chunk.js",
+    "static/css/main.45a39c6b.chunk.css",
+    "static/js/main.5c48f5de.chunk.js"
+  ]
+}
