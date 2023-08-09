@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/resume_nadge/static/css/main.60214f77.chunk.css",
+    "main.js": "/resume_nadge/static/js/main.5c48f5de.chunk.js",
+    "main.js.map": "/resume_nadge/static/js/main.5c48f5de.chunk.js.map",
+    "runtime-main.js": "/resume_nadge/static/js/runtime-main.4909dd2c.js",
+    "runtime-main.js.map": "/resume_nadge/static/js/runtime-main.4909dd2c.js.map",
+    "static/css/2.24f6a718.chunk.css": "/resume_nadge/static/css/2.24f6a718.chunk.css",
+    "static/js/2.d4dd878c.chunk.js": "/resume_nadge/static/js/2.d4dd878c.chunk.js",
+    "static/js/2.d4dd878c.chunk.js.map": "/resume_nadge/static/js/2.d4dd878c.chunk.js.map",
+    "index.html": "/resume_nadge/index.html",
+    "static/css/2.24f6a718.chunk.css.map": "/resume_nadge/static/css/2.24f6a718.chunk.css.map",
+    "static/css/main.60214f77.chunk.css.map": "/resume_nadge/static/css/main.60214f77.chunk.css.map",
+    "static/js/2.d4dd878c.chunk.js.LICENSE.txt": "/resume_nadge/static/js/2.d4dd878c.chunk.js.LICENSE.txt",
+    "static/media/Professional-Picture-Me.fef94127.jpeg": "/resume_nadge/static/media/Professional-Picture-Me.fef94127.jpeg",
+    "static/media/no-touch.min.css": "/resume_nadge/static/media/background.eba1417f.jpeg",
+    "static/media/font-awesome.min.css": "/resume_nadge/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/vi1.5c028a11.mp4": "/resume_nadge/static/media/vi1.5c028a11.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4909dd2c.js",
+    "static/css/2.24f6a718.chunk.css",
+    "static/js/2.d4dd878c.chunk.js",
+    "static/css/main.60214f77.chunk.css",
+    "static/js/main.5c48f5de.chunk.js"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.1",
-  "homepage":"http://nadgeSachin.github.io/resume_nadge",
+  "homepage":"http://nadgesachin.github.io/resume_nadge",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
