@@ -108,7 +108,7 @@ const projects = [
     name: "PDF Toolbox",
     skills: ["Python, PyPDF2, Pillow, React, Flask, HTML/CSS"],
     about: "Created a software application using Python, PyPDF2, and Pillow that enables users to merge, split, and add images to PDFs. Designed a user-friendly interface(React) to enhance user experience and improve productivity when working with PDFs. ",
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/",
   },
   {
     // Add image in './styles/images.css' in #project2
@@ -116,7 +116,7 @@ const projects = [
     name: "Algorithm Visualizer",
     skills: ["React, Node.js, Express, HTML/CSS, Algorithms"],
     about:"This software developer has created a data structure and algorithm visualizer using React and Node.js. The visualizer includes sorting algorithms and other algorithm visualizations that are easy to understand. The application simplifies complex concepts and helps users visualize algorithm behavior in real-time. ",
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/",
   },
   {
     // Add image in './styles/images.css' in #project3
@@ -124,7 +124,7 @@ const projects = [
     name: "Download Manager",
     skills: ["Java, JavaFX, Multithreading,Java Networking"],
     about:"Creating a download manager using JavaFX and multithreading allows multiple download links to be processed concurrently. This project involves creating a user interface, implementing multithreading, using the Java networking API, displaying progress updates, handling errors, and allowing the user to pause, resume, and cancel downloads.",
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/",
   },
   {
     // Add image in './styles/images.css' in #project4
@@ -132,7 +132,7 @@ const projects = [
     name: "Project 4",
     skills: ["HTML, CSS, JS"],
     about:"",
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/",
   },
   {
     // Add image in './styles/images.css' in #project5
@@ -140,7 +140,7 @@ const projects = [
     name: "Project 5",
     skills: ["HTML, CSS, JS"],
     about:"",
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/",
   },
   {
     // Add image in './styles/images.css' in #project6
@@ -148,7 +148,7 @@ const projects = [
     name: "Project 6",
     skills: ["HTML, CSS, JS"],
     about:"",
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
@@ -161,21 +161,21 @@ const miscellaneous = [
     id: "misc1",
     name: "Miscellaneous 1",
     about:"",
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/",
   },
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
     name: "Miscellaneous 2",
     about:"",
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
     name: "Miscellaneous 3",
     about:"",
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/",
   },
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
@@ -185,7 +185,7 @@ const section5Title = "Contact me";
 const contact = {
   pitch:"Available for inquiries, collaborations, and freelance opportunities. Your feedback is valuable. Let's connect and explore how we can work together to achieve our goals.",
   copyright: "Nadge Sachin ",
-  contactUrl: "https://formspree.io/f/mwkdkywy",
+  contactUrl: "https://formspree.io/f/mwkdkyw",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
